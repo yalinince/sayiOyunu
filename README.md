@@ -1,4 +1,4 @@
-# sayiOyunu
+# Sayi Oyunu
 A game like wordle, but with numbers
 
 Program 4 basamakli rakamlari birbirinden farkli bir sayi tutar. 
