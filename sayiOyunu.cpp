@@ -61,7 +61,7 @@ auto sayiyiIsle(std::vector<int> kume, std::vector<int> bilgisayarSayi) -> std::
         {
             for (int j = 0; j < 4; ++j)
             {
-                if (i != j && kume.at(i) == bilgisayarSayi.at(j))
+                if (i != j && kume.at(i) == bilgisayarSayi.at(i))
                 {
                     ++eksiSayisi;
                 }
