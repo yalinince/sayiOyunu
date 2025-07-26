@@ -39,8 +39,6 @@ int main()
         if (ipucu.second == 4) 
             break;
     } 
-    i += 2;
-
     std::cout << "Tebrikler! Sayi oyununu " << i << " denemede bitirdiniz." << std::endl;
     system("pause");
     
